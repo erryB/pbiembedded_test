@@ -1,0 +1,11 @@
+Input data for ProvisionSample project:
+
+Azure subscription ID 
+Azure resource group 
+Workspace collection name
+Dataset name 
+File folder (*ProvisionSample folder*\files\)
+File name (edisoftware-directquery)
+SQL Azure Username
+SQL Azure Password
+Connection String
