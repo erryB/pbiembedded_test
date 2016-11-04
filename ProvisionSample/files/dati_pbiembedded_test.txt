@@ -1,0 +1,26 @@
+Azure subscription ID: 
+e668a123-74ca-43ce-b688-63d0acfa1d5e
+
+Azure resource group: 
+PowerBItest111
+
+Workspace collection name: 
+Gotham2
+
+Dataset name: 
+edisoftware
+
+File folder: 
+C:\Users\erbarone\Documents\myDocuments\FY17\PowerBI\
+
+File name: 
+edisoftware
+
+SQL Azure Username: 
+edisoftware-2016
+
+SQL Azure Password: 
+Batman123
+
+Connection String: 
+Data Source=tcp:edisoftware-2016.database.windows.net,1433;Initial Catalog=edisoftware
