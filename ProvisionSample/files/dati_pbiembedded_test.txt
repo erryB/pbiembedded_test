@@ -1,5 +1,5 @@
 Azure subscription ID: 
-e668a123-74ca-43ce-b688-63d0acfa1d5e
+*get Azure Subscription ID*
 
 Azure resource group: 
 PowerBItest111
@@ -11,10 +11,10 @@ Dataset name:
 edisoftware
 
 File folder: 
-C:\Users\erbarone\Documents\myDocuments\FY17\PowerBI\
+*this repo folder*\pbiembedded_test\ProvisionSample\files\
 
 File name: 
-edisoftware
+edisoftware-directquery
 
 SQL Azure Username: 
 edisoftware-2016
