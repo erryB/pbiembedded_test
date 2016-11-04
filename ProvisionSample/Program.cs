@@ -17,7 +17,7 @@ using Microsoft.PowerBI.Api.V1;
 using Microsoft.PowerBI.Api.V1.Models;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using System.Linq;
+using System.Linq; 
 
 namespace ProvisionSample
 {
