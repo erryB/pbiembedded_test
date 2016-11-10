@@ -44,7 +44,7 @@ namespace ProvisionSample
         //HP: 2 customers
         const int customersNumber = 2;
        
-        
+        //Sync VS
 
         static void Main(string[] args)
         {
